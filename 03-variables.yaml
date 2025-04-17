@@ -1,6 +1,6 @@
 - name: variables in ansible
   hosts: mongodb
-  var: 
+  vars: 
     course: devops with aws
     trainer: sivakumar
     duration: 120
