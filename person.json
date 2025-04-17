@@ -1,0 +1,29 @@
+{
+
+  "name": "pavan",
+  "dob": "04-06-1998",
+  //this is adress map inside evertihng is key value pair
+  "adress": {
+      "city": "hyd",
+      "country": "india",
+  }
+}
+
+{
+    "name": "pavan",
+  "dob": "04-06-1998",
+  //this is adress map inside evertihng is key value pair
+  "adress": [
+    {
+        "city": "hyd",
+        "country": "india"
+        "type": "current"  
+    },
+    {
+        
+        "city": "hyd",
+        "country": "india"
+        "type": "permanent" 
+    }
+  ]
+}
