@@ -1,0 +1,38 @@
+- name: pavan kumar
+  dob: 04-06-1998
+  #this is map
+  adress: 
+   city: hyd
+   country: india
+   dno: 20
+   street: east
+   #this is  lis of adress
+  adresses:
+  - type: perment
+    country: india
+    city: hyd
+  - type: current
+    country: us
+    city: california
+
+  #second person
+  
+- name: pavan kumar
+  dob: 04-06-1998
+  #this is map
+  adress: 
+   city: hyd
+   country: india
+   dno: 20
+   street: east
+   #this is  lis of adress
+  adresses:
+  - type: perment
+    country: india
+    city: hyd
+  - type: current
+    country: us
+    city: california
+
+  
+  
