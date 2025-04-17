@@ -1,0 +1,14 @@
+<person>
+      <name>pavan</name>
+      <dob>04-06-1998</dob>
+      <adress>
+             <permanentadress>
+                   <country>india</country>
+                   <city>hyd</city>
+             <permentadress>
+             <currentadress>
+                   <country>us</country>
+                   <city>california<city>
+             <currentadress>
+       </address>
+<person>
