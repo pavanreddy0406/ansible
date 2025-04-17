@@ -19,7 +19,7 @@
   
 - name: pavan kumar
   dob: 04-06-1998
-  #this is map
+  #this is map of adress
   adress: 
    city: hyd
    country: india
