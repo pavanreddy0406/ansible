@@ -4,7 +4,7 @@
     money: "10000 RS"
     land:  "100 hectors"
   tasks:
-  - name: inherite the   value from play level
+  - name: inherite the value from play level
     ansible.builtin.debug:
     msg: "MONEY: {{money}}, land: {{land}}"
   - name: inheriate the values from play level and add and override
