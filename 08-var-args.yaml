@@ -3,4 +3,4 @@
   tasks: 
   - name: printing the variables from comands line
   ansible.builtin.debug:
-     msg: "variables course is :{{course}}"
+     msg: "variable course is :{{COURSE}}"
