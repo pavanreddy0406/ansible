@@ -27,4 +27,4 @@
       msg: "{{skills}}"
   - name: print the map varaibles
     ansible.builtin.debug:
-      msg: "{{EXPERIENCE}}"
+      msg: "{{EXPERIANCE}}"
