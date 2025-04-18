@@ -5,4 +5,4 @@
   tasks:
   - name: printing the variables
     ansible.builtin.debug
-      msg: "i am learning {{NAME}}, duration{{DURATION}}, triner{{TRAINER}}"
+      msg: "i am learning {{NAME}}, duration is:{{DURATION}}, triner is:{{TRAINER}}"
