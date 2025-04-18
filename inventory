@@ -10,17 +10,17 @@ MONGO_DB=categories
 NAME=Sivakumar-inventory
 
 [mysql]
-roboshop-us-dev-db-mysql-01.joindevops.online
-roboshop-us-dev-db-mysql-02.joindevops.online
+roboshop-us-dev-db-mysql-01.joindevopsonline.shop
+roboshop-us-dev-db-mysql-02.joindevopsonline.shop
 
 [cart]
-roboshop-in-prod-app-cart-01.joindevops.online
-roboshop-in-prod-app-cart-02.joindevops.online
-roboshop-in-prod-app-cart-03.joindevops.online
+roboshop-in-prod-app-cart-01.joindevopsonline.shop
+roboshop-in-prod-app-cart-02.joindevopsonline.shop
+roboshop-in-prod-app-cart-03.joindevopsonline.shop
 
 [user]
-roboshop-in-prod-app-user-01.joindevops.online
-roboshop-in-prod-app-user-02.joindevops.online
+roboshop-in-prod-app-user-01.joindevopsonline.shop
+roboshop-in-prod-app-user-02.joindevopsonline.shop
 
 [db:children]
 mongodb
