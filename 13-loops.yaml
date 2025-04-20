@@ -3,7 +3,7 @@
   tasks:
   - name: print the names
        msg: "hello {{item}}"
-  loops:
-    - sivakumar
-    - pavan
-    - mohan
+    loops:
+      - sivakumar
+      - pavan
+      - mohan
