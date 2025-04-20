@@ -1,0 +1,9 @@
+- name: loops example
+  hosts: localhost
+  tasks:
+  - name: print the names
+       msg: "hello {{item}}"
+  loops:
+    - sivakumar
+    - pavan
+    - mohan
