@@ -1,4 +1,4 @@
-- name : install packages
+- name: install packages
   hosts: localhost
   become: yes
   tasks:
@@ -6,7 +6,7 @@
     ansible.builtin.yum:
       name: "{{item}}"
       state: installed
-  loop:
-    - nginx
-    - postfix
-    - mailx
+    loop:
+     - nginx
+     - postfix
+     - mailx
