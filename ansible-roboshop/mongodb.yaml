@@ -1,0 +1,5 @@
+- name: install mongodb component
+  hosts: mongodb
+  become: yes
+  tasks:
+  - name:
